@@ -1,2 +1,2 @@
-# Reshu26_1
+# CALCULATORINJAVA
 Calculator Application
